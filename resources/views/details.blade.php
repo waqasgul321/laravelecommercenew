@@ -274,7 +274,7 @@
                                         </svg>
                                     </div>
                                 </div>
-                                <div class="review-date">April 06, 2023</div>
+                                <div class="review-date">April 06,2025</div>
                                 <div class="review-text">
                                     <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est…</p>
                                 </div>
